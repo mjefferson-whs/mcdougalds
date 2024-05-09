@@ -1,2 +1,2 @@
-# mcdougalds
- **Bangin** burgers
+mcdougalds
+Bangin burgers
